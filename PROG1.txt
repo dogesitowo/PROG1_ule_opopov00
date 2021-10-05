@@ -1,0 +1,14 @@
+1. Diccionario https://dle.rae.es/diccionario
+2. Palabra https://dle.rae.es/palabra
+3. Fútbol https://dle.rae.es/f%C3%BAtbol
+4. Partido https://dle.rae.es/partido
+5. Pelota https://dle.rae.es/pelota
+6. Bota https://dle.rae.es/bota
+7. Portero https://dle.rae.es/portero
+8. Jugador https://dle.rae.es/jugador
+9. Espinillera https://dle.rae.es/espinillera
+10. Árbitro https://dle.rae.es/%C3%A1rbitro
+
+
+
+
